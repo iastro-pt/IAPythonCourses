@@ -1,5 +1,3 @@
-# IAPythonCourse_2021
-
 # Python course for Astronomers
 
 ## Instructors:
