@@ -7,7 +7,7 @@
 
 ## Schedule:
 
-- April 1, 10, 15 and 17 of March
+- 4th, 5th, 7th and 8th of March
 
 ## Topics:
 1. General Overview	(A. Silva)
